@@ -4,7 +4,7 @@
 
 ## Objectives
 
-By the end of this, students should be able to:
+By the end of this lesson, students should be able to:
 
 - Create a database table
 - Insert a row into a database table
@@ -39,7 +39,7 @@ $ cd wdi_4_sql_crud
 $ subl .
 ```
 
-## Relational database management system (**[RDBMS](http://en.wikipedia.org/wiki/Relational_database_management_system))
+## Relational database management system ([RDBMS](http://en.wikipedia.org/wiki/Relational_database_management_system))
 
 A **[Database Server](http://upload.wikimedia.org/wikipedia/commons/5/57/RDBMS_structure.png)** is a set of processes and files that manage the databases that store the tables.  Sticking with our previous analogy a server would map to Google Sheets.
 
@@ -67,7 +67,7 @@ Type "help" for help.
 
 sql_crud=#
 ```
-psql has help for both its built in commands and for **[SQL](http://www.postgresql.org/docs/9.4/static/sql.html)** _(Structure Query Language - see also the Wikipedia article [SQL](http://en.wikipedia.org/wiki/SQL))_ .
+psql has help for both its built in commands and for **[SQL](http://www.postgresql.org/docs/9.4/static/sql.html)** _(Structure Query Language - also see the [Wikipedia article](http://en.wikipedia.org/wiki/SQL))_ .
 
 ```sql
 psql (9.4.1)
@@ -96,27 +96,35 @@ We'll store and manipulate information about pets.
 
 [Data Types](http://www.postgresql.org/docs/9.4/static/datatype.html)
 
+---
+
 #### [Inserting Data](http://www.postgresql.org/docs/9.4/static/dml-insert.html)
 
-**[INSERT](http://www.postgresql.org/docs/9.4/static/sql-insert.html)**
+[INSERT](http://www.postgresql.org/docs/9.4/static/sql-insert.html)
+
+---
 
 #### [Queries](http://www.postgresql.org/docs/9.4/static/queries.html)
 
 This is about the *query* part of Structured _Query_ Language.
 
-**[SELECT](http://www.postgresql.org/docs/9.4/static/sql-select.html)**
+[SELECT](http://www.postgresql.org/docs/9.4/static/sql-select.html)
+
+---
 
 ### [Modifying Tables](http://www.postgresql.org/docs/9.4/static/ddl-alter.html)
 
 **[ALTER TABLE](http://www.postgresql.org/docs/9.4/static/sql-altertable.html)**
 
+---
+
 #### [Updating Data](http://www.postgresql.org/docs/9.4/static/dml-update.html)
 
-**[UPDATE](http://www.postgresql.org/docs/9.4/static/sql-update.html)**
+[UPDATE](http://www.postgresql.org/docs/9.4/static/sql-update.html)
 
 #### [Deleting Data](http://www.postgresql.org/docs/9.4/static/dml-delete.html)
 
-**[DELETE](http://www.postgresql.org/docs/9.4/static/sql-delete.html)**
+[DELETE](http://www.postgresql.org/docs/9.4/static/sql-delete.html)
 
 ### Verb equivalence
 
