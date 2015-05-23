@@ -100,6 +100,12 @@ We'll store and manipulate information about pets.
 
 **[INSERT](http://www.postgresql.org/docs/9.4/static/sql-insert.html)**
 
+#### [Queries](http://www.postgresql.org/docs/9.4/static/queries.html)
+
+This is about the *query* part of Structured _Query_ Language.
+
+**[SELECT](http://www.postgresql.org/docs/9.4/static/sql-select.html)**
+
 ### [Modifying Tables](http://www.postgresql.org/docs/9.4/static/ddl-alter.html)
 
 **[ALTER TABLE](http://www.postgresql.org/docs/9.4/static/sql-altertable.html)**
