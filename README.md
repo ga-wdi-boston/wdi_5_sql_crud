@@ -67,7 +67,7 @@ Type "help" for help.
 
 sql_crud=#
 ```
-psql has help for both its built in commands and for **[SQL](http://www.postgresql.org/docs/9.4/static/sql.html)** _(Structure Query Language)_.
+psql has help for both its built in commands and for **[SQL](http://www.postgresql.org/docs/9.4/static/sql.html)** _(Structure Query Language - see also the Wikipedia article [SQL](http://en.wikipedia.org/wiki/SQL))_ .
 
 ```sql
 psql (9.4.1)
