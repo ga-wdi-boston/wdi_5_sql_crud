@@ -7,10 +7,10 @@
 By the end of this lesson, students should be able to:
 
 - Create a database table
-- Insert a row into a database table
-- Retrieve a row from a database table
-- Update a row in a database table
-- Delete a row from a database table
+- Insert a row or rows into a database table
+- Retrieve a row or rows from a database table
+- Update a row or rows in a database table
+- Delete a row or rows from a database table
 
 ## Prerequisites
 
@@ -67,7 +67,7 @@ Type "help" for help.
 
 sql_crud=#
 ```
-psql has help for both its built in commands and for **[SQL](http://www.postgresql.org/docs/9.4/static/sql.html)** _(Structure Query Language - also see the [Wikipedia article](http://en.wikipedia.org/wiki/SQL))_ .
+psql has help for both its built in commands and for **[SQL](http://www.postgresql.org/docs/9.4/static/sql.html)** _(Structure Query Language - see also the [Wikipedia article](http://en.wikipedia.org/wiki/SQL))_ .
 
 ```sql
 psql (9.4.1)
@@ -149,6 +149,7 @@ Ensure that the PostgreSQL server is running. You should see a small elephant in
 
 ## Lab
 
-And one more time, but for places.
+One more time, but for places.
 
 Remember to keep it to data that can be stored in a single row.
+
