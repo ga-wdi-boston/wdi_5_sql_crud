@@ -122,6 +122,8 @@ This is about the *query* part of Structured _Query_ Language.
 
 [UPDATE](http://www.postgresql.org/docs/9.4/static/sql-update.html)
 
+---
+
 #### [Deleting Data](http://www.postgresql.org/docs/9.4/static/dml-delete.html)
 
 [DELETE](http://www.postgresql.org/docs/9.4/static/sql-delete.html)
